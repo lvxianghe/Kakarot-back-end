@@ -22,5 +22,11 @@ Kakarot 致力于成为程序员们的知识宝库和灵感源泉。通过我们
  - 社区支持： 通过评论和讨论区，您可以与其他程序员交流心得和经验，共同进步。
  - 加入 Kakarot，像卡卡罗特一样，开启您的技术成长之旅，不断突破自我，成为真正的技术超级赛亚人！
 
-# 蓝图（实施中）
+# 业务蓝图（实施中）
+![业务架构](https://github.com/lvxianghe/Kakarot-back-end/assets/54591588/91cda42f-b858-405a-a38c-1beb04e11027)
+
 ![image](https://github.com/lvxianghe/Kakarot-front-end/assets/54591588/99cdcf0c-35d1-415f-ad93-5ef4389c36e9)
+
+# 技术蓝图（实施中）
+
+![image](https://github.com/lvxianghe/Kakarot-back-end/assets/54591588/e15666cf-c945-4764-aad8-9485f0739d7b)
